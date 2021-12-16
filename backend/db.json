@@ -3,19 +3,19 @@
     [
         {
             "id": "1",
-            "usúario": "User Um",
+            "usuario": "User Um",
             "email": "email-um@email.com",
             "telefone": "19 999 9999",
             "senha": "admin"
         }, {
             "id": "2",
-            "usúario": "User Dois",
+            "usuario": "User Dois",
             "email": "email-dois@email.com",
             "telefone": "19 999 9999",
             "senha": "admin123"
         }, {
             "id": "3",
-            "usúario": "User Três",
+            "usuario": "User Três",
             "email": "email-tres@email.com",
             "telefone": "19 999 9999",
             "senha": "admin123"
